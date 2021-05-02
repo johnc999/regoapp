@@ -1,5 +1,5 @@
 package johnc.form;
-
+ 
 public class RegistrationForm {
 	private String numberplate;
 	private String insurer;
