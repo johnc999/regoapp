@@ -1,13 +1,13 @@
-package com.bezkoder.spring.datajpa;
+package johnc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootDataJpaApplication {
+public class RegistrationsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootDataJpaApplication.class, args);
+		SpringApplication.run(RegistrationsApplication.class, args);
 	}
 
 }
